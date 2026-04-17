@@ -12,6 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.13",
+    "playwright": "^1.59.1",
     "postcss": "^8.4.49",
     "solid-devtools": "^0.34.3",
     "tailwindcss": "^4.1.13",
